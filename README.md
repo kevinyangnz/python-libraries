@@ -9,6 +9,7 @@ These libraries include:
 - Matplotlib 
 - Keras
 - SciKit-Learn
+- PyTorch
 
 
 # NumPy (Numerical Python)
