@@ -8,4 +8,13 @@ These libraries include:
 - Pandas
 - Matplotlib 
 - Keras
-- SciKit-Lear
+- SciKit-Learn
+
+
+# NumPy (Numerical Python)
+NumPy is a Python library used for working with arrays, including linear algebra and matrices. 
+Providing array objects that are up to 50x faster than regular python lists, NumPy is crucial for handling large datasets.
+
+
+# References
+https://www.w3schools.com/python/numpy/numpy_intro.asp
