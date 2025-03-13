@@ -10,6 +10,7 @@ These libraries include:
 - Matplotlib
 - Keras
 - SciKit-Learn
+- PyTorch
 
 # TensorFlow
 TensorFlow is a library for machine learning and artificial intelligence, utilising linear algebra and statistics. 
