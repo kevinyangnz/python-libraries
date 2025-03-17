@@ -3,11 +3,11 @@ Documenting my progress for learning commonly used Python libraries for Data Sci
 
 These libraries include:
 - TensorFlow
+- Keras
 - NumPy
 - SciPy 
-- Pandas
 - Matplotlib 
-- Keras
+- Seaborn
+- Pandas
 - SciKit-Learn
 - PyTorch
-
