@@ -1,16 +1,28 @@
 # Python Libraries
 Documenting my progress for learning commonly used Python libraries for Data Science
 
-These libraries include:
+## These libraries include
+
+Machine Learning:
+
 - TensorFlow
 - Keras
+- PyTorch
+- SciKit-Learn
+
+Numerical and Scientific Computing:
+
 - NumPy
-- SciPy 
+- SciPy
+
+Data Manipulation and Analysis:
+
+- Pandas
+
+Data Visualisation:
+  
 - Matplotlib 
 - Seaborn
-- Pandas
-- SciKit-Learn
-- PyTorch
 
 # Keras
 
@@ -22,7 +34,8 @@ Commonly used for:
 - Natural language processing
 - Speech recognition
 
-# References
+## References
 
 https://keras.io/about/
 https://www.geeksforgeeks.org/what-is-keras/
+
