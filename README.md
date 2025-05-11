@@ -1,30 +1,3 @@
-# Python Libraries
-Documenting my progress for learning commonly used Python libraries for Data Science
-
-## These libraries include
-
-Machine Learning:
-
-- TensorFlow
-- Keras
-- PyTorch
-- SciKit-Learn
-
-Numerical and Scientific Computing:
-
-- NumPy
-- SciPy
-
-Data Manipulation and Analysis:
-
-- Pandas
-
-Data Visualisation:
-  
-- Matplotlib 
-- Seaborn
-
-  
 # NumPy (Numerical Python)
 NumPy is a Python library used for working with arrays, including linear algebra and matrices. Arrays in NumPy are called 'ndarray'
 
