@@ -5,8 +5,7 @@ Documenting my progress for learning commonly used Python libraries for Data Sci
 
 Machine Learning:
 
-- TensorFlow
-- Keras
+- TensorFlow & Keras
 - PyTorch
 - SciKit-Learn
 
