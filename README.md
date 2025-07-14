@@ -1,26 +1,8 @@
-# Python Libraries
-Documenting my progress for learning commonly used Python libraries for Data Science
+# Matplotlib
 
-## These libraries include
 
-Machine Learning:
 
-- TensorFlow & Keras
-- PyTorch
-- SciKit-Learn
+# Seaborn
 
-Numerical and Scientific Computing:
-
-- NumPy
-- SciPy
-
-Data Manipulation and Analysis:
-
-- Pandas
-
-Data Visualisation:
-  
-- Matplotlib 
-- Seaborn
 
 
