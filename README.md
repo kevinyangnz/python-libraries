@@ -1,5 +1,4 @@
 # Matplotlib
-
 Matplotlib is a library for creating static, animated and interactive visualizations in Python.
 
 Key features of Matplotlib include:
@@ -10,13 +9,12 @@ Key features of Matplotlib include:
 - Integrated with NumPy and Pandas
 
 ## References
-
 https://matplotlib.org/
 https://www.geeksforgeeks.org/python/python-introduction-matplotlib/
 
+<br> <hr> 
 
 # Seaborn
-
 Seaborn is built on Matplotlib and is used for statistical data visualisation.
 
 Key features of Seaborn include:
@@ -27,7 +25,6 @@ Key features of Seaborn include:
 
 
 ## References
-
 https://seaborn.pydata.org/
 https://www.geeksforgeeks.org/python/introduction-to-seaborn-python/
 
