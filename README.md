@@ -9,7 +9,7 @@ Key features of Matplotlib include:
 - Integrated with NumPy and Pandas
 
 ## References
-https://matplotlib.org/
+https://matplotlib.org/ <br>
 https://www.geeksforgeeks.org/python/python-introduction-matplotlib/
 
 <br> <hr> 
@@ -25,7 +25,7 @@ Key features of Seaborn include:
 
 
 ## References
-https://seaborn.pydata.org/
+https://seaborn.pydata.org/ <br>
 https://www.geeksforgeeks.org/python/introduction-to-seaborn-python/
 
 
