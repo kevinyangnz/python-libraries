@@ -5,7 +5,7 @@ Key features of Matplotlib include:
 
 - Creating plots (line plots, scatterplots, histograms, bar graphs etc)
 - Customized styling
-- Subplots (Multiple plots within specified grids)
+- Subplots (Multiple plots within specified grid)
 - Integrated with NumPy and Pandas
 
 ## References
