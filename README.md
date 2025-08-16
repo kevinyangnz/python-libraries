@@ -12,7 +12,7 @@ Key features of Matplotlib include:
 https://matplotlib.org/ <br>
 https://www.geeksforgeeks.org/python/python-introduction-matplotlib/
 
-<br> <hr> 
+<br> 
 
 # Seaborn
 Seaborn is built on Matplotlib and is used for statistical data visualisation.
