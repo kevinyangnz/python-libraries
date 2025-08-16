@@ -18,7 +18,7 @@ Examples of where TensorFlow is used:
 ## References
 https://youtu.be/i8NETqtGHms?si=oGUHS-ZMgTeM5bQe
 
-<br> <br>
+<br> 
 
 # Keras
 
@@ -35,7 +35,7 @@ Commonly used for:
 https://keras.io/about/  
 https://www.geeksforgeeks.org/what-is-keras/
 
-<br> <br>
+<br> 
 
 # Number Identifier
 
