@@ -36,6 +36,8 @@ https://keras.io/about/
 https://www.geeksforgeeks.org/what-is-keras/
 
 
+
+
 # Number Identifier
 
 I have developed a machine learning model using Tensorflow and Keras to accurately classify digits from 0-9, with the numbers_samples folder containing 10 of each digit drawn by myself using Microsoft Paint. Utilizing the image_augmentation.py file, we will apply randomly generated image augmentation to create an additional 990 images per digit. This results in 1,000 images per digit, for a total of 10,000 images passed into the neural network. After all of the additional images have been generated, we can run the number_identifier.py file to train the model and view prediction results.
