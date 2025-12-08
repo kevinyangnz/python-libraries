@@ -12,7 +12,6 @@ Machine Learning:
 Numerical and Scientific Computing:
 
 - NumPy
-- SciPy
 
 Data Manipulation and Analysis:
 
